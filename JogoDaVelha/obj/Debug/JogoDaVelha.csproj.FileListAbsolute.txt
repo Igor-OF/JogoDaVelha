@@ -1,0 +1,11 @@
+C:\CES-JF\7º Período\Redes de Computadores - Romualdo Monteiro de Resende Costa\Trabalho\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+C:\CES-JF\7º Período\Redes de Computadores - Romualdo Monteiro de Resende Costa\Trabalho\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\CES-JF\7º Período\Redes de Computadores - Romualdo Monteiro de Resende Costa\Trabalho\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\CES-JF\7º Período\Redes de Computadores - Romualdo Monteiro de Resende Costa\Trabalho\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csprojResolveAssemblyReference.cache
+C:\CES-JF\7º Período\Redes de Computadores - Romualdo Monteiro de Resende Costa\Trabalho\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.FormPrincipal.resources
+C:\CES-JF\7º Período\Redes de Computadores - Romualdo Monteiro de Resende Costa\Trabalho\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+C:\CES-JF\7º Período\Redes de Computadores - Romualdo Monteiro de Resende Costa\Trabalho\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.Cache
+C:\CES-JF\7º Período\Redes de Computadores - Romualdo Monteiro de Resende Costa\Trabalho\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\CES-JF\7º Período\Redes de Computadores - Romualdo Monteiro de Resende Costa\Trabalho\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\CES-JF\7º Período\Redes de Computadores - Romualdo Monteiro de Resende Costa\Trabalho\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+C:\CES-JF\7º Período\Redes de Computadores - Romualdo Monteiro de Resende Costa\Trabalho\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.FormJogo.resources
